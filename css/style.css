@@ -6,6 +6,18 @@
 }
  /* Courses */
  .mt-5{
-    margin-top: 50%;
+        
        text-align: center;
  }
+ @media only screen and (max-width: 991px) {
+    .mx-1 {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+@media only screen and (max-width: 767px) {
+    .container .mx-1{
+           display: none;
+    
+}
+}
