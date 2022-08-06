@@ -30,3 +30,12 @@
 .py-1{
      margin-top: 30%;
 }
+/* main extra */
+.h6{
+     text-decoration: none;
+       padding-left: 50%;
+}
+.border li{
+       list-style: none;
+       width: 10px;
+}
