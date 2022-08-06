@@ -5,6 +5,7 @@
        font-size: 70px;
 }
  /* Courses */
+
  .mt-5{
         
        text-align: center;
@@ -16,8 +17,16 @@
     }
 }
 @media only screen and (max-width: 767px) {
-    .container .mx-1{
+    .my-1{
            display: none;
+          
     
 }
+}
+.pe-1{
+      margin-left: 50%;
+}
+/* extra */
+.py-1{
+     margin-top: 30%;
 }
