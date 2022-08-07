@@ -51,6 +51,10 @@
        
           text-align: center;
 }
-.big-bg-warning{
-               padding-left: 10px;
+.bg-dark{
+        text-align: center;
+        background-color: black;
+        padding-top: 50px;
+        margin-top: 30px;
+
 }
